@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 关于我
 
-- 🔭 主攻 **C++ 跨平台桌面与网络开发**（Windows / macOS），长期深耕**下载技术**：多线程 HTTP、aria2、eD2k(电驴) 协议、P2P
+- 🔭 主攻 **C++ 跨平台桌面与网络开发**（Windows / macOS / Linux），长期深耕**下载技术**：多线程 HTTP、aria2、eD2k(电驴) 协议、P2P
 - 🚀 正在开发 [**GDownload**](https://github.com/cool2528/GDownload) —— C++ 编写的全功能下载管理器，及其[浏览器扩展](https://github.com/cool2528/gd-browser-extension)、[插件生态](https://github.com/cool2528/gdownload-plugin-registry)
 - 🎬 熟悉 **音视频处理**：FFmpeg 硬件编码（NVIDIA / AMD / Intel）、libvlc、OpenGL
 - 🛠️ 喜欢造轮子：线程池、HTTP 请求库、zip 封装、Tars/JCE 协议解析……
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Qt-Widgets%20%2F%20QML-41CD52?style=flat-square&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/FFmpeg-%E7%A1%AC%E4%BB%B6%E7%BC%96%E8%A7%A3%E7%A0%81-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
   <img src="https://img.shields.io/badge/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE-HTTP%20%2F%20eD2k%20%2F%20P2P-2a5298?style=flat-square" />
-  <img src="https://img.shields.io/badge/macOS-%E6%A1%8C%E9%9D%A2%E5%BC%80%E5%8F%91-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E8%B7%A8%E5%B9%B3%E5%8F%B0-Windows%20%2F%20macOS%20%2F%20Linux-000000?style=flat-square&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Browser%20Extension-Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 </p>
 
