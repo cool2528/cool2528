@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:00c6ff&height=200&section=header&text=Hi%2C%20I'm%20cool%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%E6%A1%8C%E9%9D%A2%20%C2%B7%20%E7%BD%91%E7%BB%9C%20%C2%B7%20%E4%B8%8B%E8%BD%BD%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E8%80%85&descSize=18&descAlignY=60" width="100%" />
 
 <a href="https://github.com/cool2528">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=C%2B%2B+Desktop+%26+Network+Developer;%E4%B8%93%E6%B3%A8%E4%B8%8B%E8%BD%BD%E6%8A%80%E6%9C%AF+%C2%B7+HTTP+%2F+aria2+%2F+eD2k;Qt+%C2%B7+FFmpeg+%C2%B7+CMake+%C2%B7+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=C%2B%2B+Desktop+%26+Network+Developer;9+%E5%B9%B4%2B+C%2B%2B+%C2%B7+%E6%AD%A3%E5%90%91%E5%BC%80%E5%8F%91+%C3%97+%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B;%E4%B8%93%E6%B3%A8%E4%B8%8B%E8%BD%BD%E6%8A%80%E6%9C%AF+%C2%B7+HTTP+%2F+aria2+%2F+eD2k;Qt+%C2%B7+FFmpeg+%C2%B7+CMake+%C2%B7+TypeScript" alt="Typing SVG" />
 </a>
 
 <p>
@@ -17,17 +17,18 @@
 
 ## 🧑‍💻 关于我
 
-- 🔭 主攻 **C++ 跨平台桌面与网络开发**（Windows / macOS / Linux），长期深耕**下载技术**：多线程 HTTP、aria2、eD2k(电驴) 协议、P2P
-- 🚀 正在开发 [**GDownload**](https://github.com/cool2528/GDownload) —— C++ 编写的全功能下载管理器，及其[浏览器扩展](https://github.com/cool2528/gd-browser-extension)、[插件生态](https://github.com/cool2528/gdownload-plugin-registry)
-- 🎬 熟悉 **音视频处理**：FFmpeg 硬件编码（NVIDIA / AMD / Intel）、libvlc、OpenGL
-- 🛠️ 喜欢造轮子：线程池、HTTP 请求库、zip 封装、Tars/JCE 协议解析……
-- 🤖 也写 Python / TypeScript 工具，探索 AI 辅助开发（如 [linguist-ai](https://github.com/cool2528/linguist-ai) —— Qt 翻译文件 AI 自动化工具）
+- 💻 **9 年+ C++ 开发经验**，主攻**跨平台桌面**（Windows / macOS / Linux）与**服务端高并发**开发，擅长高性能架构设计、多线程/并发编程与内存管理
+- 🔭 长期深耕**下载技术**：多线程 HTTP、aria2、eD2k(电驴) 协议、P2P，正在开发 [**GDownload**](https://github.com/cool2528/GDownload) 及其[浏览器扩展](https://github.com/cool2528/gd-browser-extension)、[插件生态](https://github.com/cool2528/gdownload-plugin-registry)
+- 🔬 兼具**正向开发与逆向工程**双重背景：x86 汇编、Hook / 注入、内存分析、反调试对抗、PE 结构
+- 🎬 熟悉**音视频处理**：FFmpeg 解析 / 转码 / 同步播放、硬件编码（NVIDIA / AMD / Intel）、libvlc、OpenGL
+- 🤖 实践**端侧 AI 推理**落地：ncnn / YOLO / OCR 图像检测，也用 Python 写 AI 工具（如 [linguist-ai](https://github.com/cool2528/linguist-ai) —— Qt 翻译文件 AI 自动化翻译）
+- 🛠️ 喜欢造轮子：线程池、HTTP 请求库、zip 封装、Tars/JCE 协议解析、Lua 脚本引擎集成……
 
 ## 🛠️ 技术栈
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,qt,cmake,py,ts,js,go,visualstudio,vscode,windows,apple,linux,git,github,electron&perline=8" alt="skills" />
+<img src="https://skillicons.dev/icons?i=cpp,c,qt,cmake,py,lua,ts,js,go,visualstudio,vscode,windows,apple,linux,git,docker&perline=8" alt="skills" />
 
 <p>
   <img src="https://img.shields.io/badge/Modern%20C%2B%2B-17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -35,6 +36,9 @@
   <img src="https://img.shields.io/badge/FFmpeg-%E7%A1%AC%E4%BB%B6%E7%BC%96%E8%A7%A3%E7%A0%81-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
   <img src="https://img.shields.io/badge/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE-HTTP%20%2F%20eD2k%20%2F%20P2P-2a5298?style=flat-square" />
   <img src="https://img.shields.io/badge/%E8%B7%A8%E5%B9%B3%E5%8F%B0-Windows%20%2F%20macOS%20%2F%20Linux-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B-x86%20%2F%20Hook%20%2F%20%E6%B3%A8%E5%85%A5-8b0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E7%AB%AF%E4%BE%A7%20AI-ncnn%20%2F%20YOLO%20%2F%20OCR-ee4c2c?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E6%A1%8C%E9%9D%A2%E6%8A%80%E6%9C%AF-Win32%20%2F%20CEF%20%2F%20Duilib%20%2F%20QML-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Browser%20Extension-Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 </p>
 
