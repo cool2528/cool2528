@@ -56,14 +56,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cool2528&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=cn" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool2528&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=cn" alt="top langs" />
+<img height="195" src="https://raw.githubusercontent.com/cool2528/cool2528/output/stats-card.svg" alt="stats" />
+<img height="195" src="https://raw.githubusercontent.com/cool2528/cool2528/output/top-langs.svg" alt="top langs" />
 
 <img src="https://streak-stats.demolab.com?user=cool2528&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="streak" />
-
-<a href="https://github.com/cool2528">
-  <img src="https://github-profile-trophy.vercel.app/?username=cool2528&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophy" />
-</a>
 
 </div>
 
