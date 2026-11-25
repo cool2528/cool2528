@@ -19,10 +19,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate stats cards
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate project cards and stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/gen_cards.py dist
+        run: |
+          pip install -r scripts/requirements.txt
+          python scripts/build_profile.py live dist
 
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
