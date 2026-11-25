@@ -1,87 +1,49 @@
-<div align="center">
+# 你好，我是 cool
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:00c6ff&height=200&section=header&text=Hi%2C%20I'm%20cool%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%E6%A1%8C%E9%9D%A2%20%C2%B7%20%E7%BD%91%E7%BB%9C%20%C2%B7%20%E4%B8%8B%E8%BD%BD%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E8%80%85&descSize=18&descAlignY=60" width="100%" />
+我有 9 年以上 C++ 开发经验，主要做 **跨平台桌面应用、网络下载和高并发服务端**。也做 **Windows 二进制分析**，熟悉 x86 汇编、PE 文件格式和运行时调试。
 
-<a href="https://github.com/cool2528">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=C%2B%2B+Desktop+%26+Network+Developer;9+%E5%B9%B4%2B+C%2B%2B+%C2%B7+%E6%AD%A3%E5%90%91%E5%BC%80%E5%8F%91+%C3%97+%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B;%E4%B8%93%E6%B3%A8%E4%B8%8B%E8%BD%BD%E6%8A%80%E6%9C%AF+%C2%B7+HTTP+%2F+aria2+%2F+eD2k;Qt+%C2%B7+FFmpeg+%C2%B7+CMake+%C2%B7+TypeScript" alt="Typing SVG" />
-</a>
+## GDownload
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=cool2528&style=flat-square&color=2a5298" alt="profile views" />
-  <a href="https://github.com/cool2528?tab=followers"><img src="https://img.shields.io/github/followers/cool2528?style=flat-square&color=2a5298" alt="followers" /></a>
-  <a href="https://github.com/cool2528/baiduCDP"><img src="https://img.shields.io/github/stars/cool2528/baiduCDP?style=flat-square&label=baiduCDP%20%E2%AD%90&color=f7b731" alt="baiduCDP stars" /></a>
-  <a href="https://github.com/cool2528/GDownload"><img src="https://img.shields.io/github/stars/cool2528/GDownload?style=flat-square&label=GDownload%20%E2%AD%90&color=f7b731" alt="GDownload stars" /></a>
-</p>
+我用 **C++20 和 Qt 6** 开发的下载管理器，支持 Windows、macOS 和 Linux。它通过 aria2 下载 HTTP(S)、FTP 和 BitTorrent 资源，也集成了自研的 eD2k 引擎，支持 Kad 搜索、多源下载和断点续传。
 
-</div>
-
-## 🧑‍💻 关于我
-
-- 💻 **9 年+ C++ 开发经验**，主攻**跨平台桌面**（Windows / macOS / Linux）与**服务端高并发**开发，擅长高性能架构设计、多线程/并发编程与内存管理
-- 🔭 长期深耕**下载技术**：多线程 HTTP、aria2、eD2k(电驴) 协议、P2P，正在开发 [**GDownload**](https://github.com/cool2528/GDownload) 及其[浏览器扩展](https://github.com/cool2528/gd-browser-extension)、[插件生态](https://github.com/cool2528/gdownload-plugin-registry)
-- 🔬 兼具**正向开发与逆向工程**双重背景：x86 汇编、Hook / 注入、内存分析、反调试对抗、PE 结构
-- 🎬 熟悉**音视频处理**：FFmpeg 解析 / 转码 / 同步播放、硬件编码（NVIDIA / AMD / Intel）、libvlc、OpenGL
-- 🤖 实践**端侧 AI 推理**落地：ncnn / YOLO / OCR 图像检测，也用 Python 写 AI 工具（如 [linguist-ai](https://github.com/cool2528/linguist-ai) —— Qt 翻译文件 AI 自动化翻译）
-- 🛠️ 喜欢造轮子：线程池、HTTP 请求库、zip 封装、Tars/JCE 协议解析、Lua 脚本引擎集成……
-
-## 🛠️ 技术栈
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,qt,cmake,py,lua,ts,js,go,visualstudio,vscode,windows,apple,linux,git,docker&perline=8" alt="skills" />
-
-<p>
-  <img src="https://img.shields.io/badge/Modern%20C%2B%2B-17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-Widgets%20%2F%20QML-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-%E7%A1%AC%E4%BB%B6%E7%BC%96%E8%A7%A3%E7%A0%81-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
-  <img src="https://img.shields.io/badge/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE-HTTP%20%2F%20eD2k%20%2F%20P2P-2a5298?style=flat-square" />
-  <img src="https://img.shields.io/badge/%E8%B7%A8%E5%B9%B3%E5%8F%B0-Windows%20%2F%20macOS%20%2F%20Linux-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B-x86%20%2F%20Hook%20%2F%20%E6%B3%A8%E5%85%A5-8b0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/%E7%AB%AF%E4%BE%A7%20AI-ncnn%20%2F%20YOLO%20%2F%20OCR-ee4c2c?style=flat-square" />
-  <img src="https://img.shields.io/badge/%E6%A1%8C%E9%9D%A2%E6%8A%80%E6%9C%AF-Win32%20%2F%20CEF%20%2F%20Duilib%20%2F%20QML-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Browser%20Extension-Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-</p>
-
-</div>
-
-## 📌 精选项目
-
-| 项目 | 简介 | 技术 | 数据 |
-| :--- | :--- | :--- | :--- |
-| [**baiduCDP**](https://github.com/cool2528/baiduCDP) | 百度网盘下载神器（已归档） | `C++` | ![](https://img.shields.io/github/stars/cool2528/baiduCDP?style=flat-square&color=f7b731) |
-| [**GDownload**](https://github.com/cool2528/GDownload) | C++ 编写的全功能下载管理器 | `C++` `Qt` | ![](https://img.shields.io/github/stars/cool2528/GDownload?style=flat-square&color=f7b731) |
-| [**ed2k-engine-cpp**](https://github.com/cool2528/ed2k-engine-cpp) | 现代 C++ 实现的 eD2k(电驴) 协议引擎 | `C++` | ![](https://img.shields.io/github/stars/cool2528/ed2k-engine-cpp?style=flat-square&color=f7b731) |
-| [**aria2cengine**](https://github.com/cool2528/aria2cengine) | 基于 aria2 二次开发的下载引擎 | `C++` | ![](https://img.shields.io/github/stars/cool2528/aria2cengine?style=flat-square&color=f7b731) |
-| [**gd-browser-extension**](https://github.com/cool2528/gd-browser-extension) | GDownload 浏览器扩展，网页资源嗅探 | `TypeScript` | ![](https://img.shields.io/github/stars/cool2528/gd-browser-extension?style=flat-square&color=f7b731) |
-| [**linguist-ai**](https://github.com/cool2528/linguist-ai) | Qt .ts 翻译文件 AI 自动化工具，支持 10+ 翻译引擎 | `Python` | ![](https://img.shields.io/github/stars/cool2528/linguist-ai?style=flat-square&color=f7b731) |
-| [**VideoHardwareEncoding**](https://github.com/cool2528/VideoHardwareEncoding) | FFmpeg 硬件编码实践（NVIDIA / AMD / Intel） | `C++` `FFmpeg` | ![](https://img.shields.io/github/stars/cool2528/VideoHardwareEncoding?style=flat-square&color=f7b731) |
-| [**ThreadPool**](https://github.com/cool2528/ThreadPool) | 简洁的 C++17 线程池实现 | `C++17` | ![](https://img.shields.io/github/stars/cool2528/ThreadPool?style=flat-square&color=f7b731) |
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-<img height="195" src="https://raw.githubusercontent.com/cool2528/cool2528/output/stats-card.svg" alt="stats" />
-<img height="195" src="https://raw.githubusercontent.com/cool2528/cool2528/output/top-langs.svg" alt="top langs" />
-
-<img src="https://streak-stats.demolab.com?user=cool2528&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="streak" />
-
-</div>
-
-## 🐍 贡献图
-
-<div align="center">
+[**下载最新版**](https://github.com/cool2528/GDownload/releases/latest) · [查看源码](https://github.com/cool2528/GDownload) · [项目官网](https://gdownload.uk/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cool2528/cool2528/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cool2528/cool2528/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/cool2528/cool2528/output/github-snake.svg" alt="snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cool2528/GDownload/main/screenshot/screenshot-2.png">
+  <img src="https://raw.githubusercontent.com/cool2528/GDownload/main/screenshot/screenshot-1.png" alt="GDownload 下载界面，显示任务进度、速度和连接数" width="660">
 </picture>
 
-</div>
+### 引擎与扩展
 
-<div align="center">
+- [**ed2k-engine-cpp**](https://github.com/cool2528/ed2k-engine-cpp) · 基于 Boost.Asio 协程的 C++20 eDonkey/eMule 协议引擎。对照 aMule 源码逐字节核验协议格式，并用 aMule 2.3.3 做[互操作测试](https://github.com/cool2528/ed2k-engine-cpp#live-tests)。
+- [**gd-browser-extension**](https://github.com/cool2528/gd-browser-extension) · 用 TypeScript 编写的 Chrome、Edge 和 Firefox 扩展，可捕获网页资源链接并批量发送到 GDownload。
+- [**gdownload-plugin-registry**](https://github.com/cool2528/gdownload-plugin-registry) · GDownload 插件市场的注册表，维护 JavaScript 插件索引和签名版本。
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2a5298,100:1a2a6c&height=120&section=footer" width="100%" />
+## 其他开源项目
 
-</div>
+- [**tarswire**](https://github.com/cool2528/tarswire) · C++ Tars/JCE 编解码与查询库，附带 CLI，可将十六进制数据解析为 JSON。
+- [**linguist-ai**](https://github.com/cool2528/linguist-ai) · 用 Python 自动翻译 Qt `.ts` 文件，支持多种翻译服务，并保留占位符和格式。
+- [**VideoHardwareEncoding**](https://github.com/cool2528/VideoHardwareEncoding) · 使用 FFmpeg 实现硬件编码录屏，涉及 NVIDIA、AMD 和 Intel GPU。
+- [**minizip**](https://github.com/cool2528/minizip) · 基于 zlib / minizip 的文件和目录打包、解包封装。
+
+## 已归档项目
+
+- [**baiduCDP**](https://github.com/cool2528/baiduCDP) · 早期的 Windows 百度网盘下载工具。
+- [**aria2cengine**](https://github.com/cool2528/aria2cengine) · 早期基于 aria2 的下载引擎实践。
+
+[浏览全部公开仓库](https://github.com/cool2528?tab=repositories)
+
+<details>
+<summary>GitHub 统计与贡献图</summary>
+
+<p>
+  <img src="https://raw.githubusercontent.com/cool2528/cool2528/output/stats-card.svg" alt="GitHub 关注人数、原创公开仓库数和这些仓库的 Star 与 Fork 总数" width="375">
+  <img src="https://raw.githubusercontent.com/cool2528/cool2528/output/top-langs.svg" alt="原创公开仓库的编程语言字节占比" width="281">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cool2528/cool2528/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/cool2528/cool2528/output/github-snake.svg" alt="GitHub 贡献日历贪吃蛇动画">
+</picture>
+
+</details>
