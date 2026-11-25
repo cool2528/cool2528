@@ -73,10 +73,10 @@ def stats_card(user, own):
     stars = sum(r["stargazers_count"] for r in own)
     forks = sum(r["forks_count"] for r in own)
     rows = [
-        ("获得 Star 总数", f"{stars:,}"),
-        ("被 Fork 总数", f"{forks:,}"),
-        ("关注者", f"{user['followers']:,}"),
-        ("原创仓库", f"{len(own):,}"),
+        ("Stars earned", f"{stars:,}"),
+        ("Forks received", f"{forks:,}"),
+        ("Followers", f"{user['followers']:,}"),
+        ("Public non-fork repositories", f"{len(own):,}"),
     ]
     items = []
     for i, (label, value) in enumerate(rows):
@@ -95,7 +95,7 @@ def stats_card(user, own):
 @keyframes fadein {{ to {{ opacity: 1; }} }}
 </style>
 <rect width="467" height="195" rx="10" fill="{BG}"/>
-<text x="25" y="40" fill="{TITLE}" font-size="18" font-weight="600">cool2528 的 GitHub 数据</text>
+<text x="25" y="40" fill="{TITLE}" font-size="18" font-weight="600">GitHub stats</text>
 {rows_svg}
 </svg>
 """
@@ -128,7 +128,7 @@ def langs_card(langs):
 @keyframes fadein {{ to {{ opacity: 1; }} }}
 </style>
 <rect width="350" height="195" rx="10" fill="{BG}"/>
-<text x="25" y="40" fill="{TITLE}" font-size="18" font-weight="600">常用语言</text>
+<text x="25" y="40" fill="{TITLE}" font-size="18" font-weight="600">Repository languages</text>
 <clipPath id="bar"><rect x="{bar_x}" y="55" width="{bar_w}" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">{"".join(segments)}</g>
 {"".join(legend)}
